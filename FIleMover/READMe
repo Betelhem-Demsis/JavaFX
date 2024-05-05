@@ -1,0 +1,2 @@
+file mover is simple javaFX program to move a last file from one directory to the other destination 
+to use it -- specify the path of file folder u want to move a file from on a sourcePath and destination folder on destinationPath
